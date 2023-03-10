@@ -13,7 +13,8 @@
   <div align="center">
     <h1>
       <?php
-      echo "Hello World!";
+      echo "Congratulations !!";
+      echo "This application was deployed using AWS DevOps.";
       ?>
     </h1>
   </div>
